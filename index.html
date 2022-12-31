@@ -86,6 +86,8 @@
         "新的一年也要发光发热",
         "健健康康，平安喜乐",
         "热爱可抵漫长岁月，期待来年见啦o((>ω< ))o",
+        "以及",
+        "我爱你！！！",
       ];
       const shapes = [
         // "img$http://www.html5tricks.com/wp-content/uploads/2015/03/html5-canvas-drag-tree.png"
